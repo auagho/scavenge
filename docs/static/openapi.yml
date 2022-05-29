@@ -29734,6 +29734,12 @@ paths:
       tags:
         - Query
 definitions:
+  auagho.scavenge.scavenge.MsgCommitSolutionResponse:
+    type: object
+  auagho.scavenge.scavenge.MsgRevealSolutionResponse:
+    type: object
+  auagho.scavenge.scavenge.MsgSubmitScavengeResponse:
+    type: object
   auagho.scavenge.scavenge.Params:
     type: object
     description: Params defines the parameters for the module.
